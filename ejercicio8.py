@@ -10,3 +10,4 @@ numaprox=round(parte_decimal,2)
 
 print("el decimal es", numaprox)
 
+#parte decimal

@@ -14,3 +14,4 @@ else:
     print("la division no es exacta. ")
 print("cociente", co)
 print("resto", res)        
+ #division

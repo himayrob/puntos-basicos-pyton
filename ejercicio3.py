@@ -5,3 +5,4 @@ ct =int (input("ingrese valor cuarta nota: "))
 np = int (pn+sn+tn+ct)/4
 print ("la nota promedio es :", (np))
        
+#promedio

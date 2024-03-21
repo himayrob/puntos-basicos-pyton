@@ -12,3 +12,4 @@ numeros ={
 numo = dict(sorted(numeros.items(), key=lambda item:item[1]))
 print(numo)
 #descubri el origen del universo en este ejercicio ajajjajajajajj
+#otra forma de hacerlo

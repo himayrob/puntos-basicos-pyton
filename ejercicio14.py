@@ -17,3 +17,4 @@ p2 = input("ingrese palabra 2: ")
 palabra_larga, diferencia = palabra_larga(p1, p2)
 
 print(f"la palabra mas larga es '{palabra_larga}' y tiene diferencia de {diferencia} letras.")
+#palabra mas larga

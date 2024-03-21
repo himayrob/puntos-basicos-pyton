@@ -10,3 +10,5 @@ if par(numero):
 else:
      print("es impar")     
      
+     
+     #determinar par
